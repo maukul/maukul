@@ -1,14 +1,15 @@
 # Hi, I'm Mykhailo 👋
 
-**Senior Full-Stack Engineer** — React, Next.js and TypeScript on the frontend; Laravel/PHP and Supabase/PostgreSQL on the backend. 9+ years shipping web products for EdTech, MedTech, ERP, CRM and e-commerce.
+**Senior Full-Stack Engineer**: React, Next.js and TypeScript on the frontend; Laravel/PHP, Python and Supabase/PostgreSQL on the backend. 9+ years shipping web products for health-tech, EdTech, ERP, e-commerce and logistics.
 
-Open to senior full-stack **contract and part-time** engagements (remote, UTC+2).
+Open to senior full-stack roles: **full-time, part-time or contract** (remote, UTC+2).
 
 ## What I work on
 
-- **AlgoAid** (2025 – present) — leading the engineering of a non-profit, AI-powered EdTech platform: Next.js, pnpm monorepo, Supabase with Row Level Security, multi-LLM streaming through the Vercel AI SDK, Stripe subscriptions.
-- **Eclipse Insights** (2025) — led a medical ERP from blank slate to launch (React + Express); the platform was acquired after launch.
-- **Legacy migrations** — taking over existing systems and moving them to a modern stack without downtime.
+- **US health-tech platform** (2024 – present, contract): Senior Engineer on a claims and benefits administration platform with 40+ modules. I own 3 modules, including payments automation, and contribute to 5 more. React, TypeScript, Python. The team works AI-native, with spec-driven development.
+- **AlgoAid** (2023 – present): leading engineering of an AI-powered EdTech startup for technical interview prep. Next.js, pnpm monorepo, Supabase with Row Level Security, multi-LLM streaming through the Vercel AI SDK, Stripe subscriptions.
+- **Eclipse Insights** (2022 – 2024): led a team of 5 that took a medical ERP from blank slate to launch (React + Express). The platform was acquired after launch.
+- **Legacy migrations**: taking over existing systems and moving them to a modern stack without downtime.
 
 ## Stack
 
@@ -16,8 +17,10 @@ Open to senior full-stack **contract and part-time** engagements (remote, UTC+2)
 ![Next.js](https://img.shields.io/badge/Next.js-000?logo=nextdotjs&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178c6?logo=typescript&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-0f172a?logo=tailwindcss&logoColor=38bdf8)
+![Vue.js](https://img.shields.io/badge/Vue.js-35495e?logo=vuedotjs&logoColor=4fc08d)
 ![Laravel](https://img.shields.io/badge/Laravel-ff2d20?logo=laravel&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777bb4?logo=php&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776ab?logo=python&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-0b3d2e?logo=supabase&logoColor=3ecf8e)
 ![Playwright](https://img.shields.io/badge/Playwright-2d4f3e?logo=playwright&logoColor=white)
@@ -27,7 +30,7 @@ AI integrations: OpenAI, Anthropic and Gemini APIs via the Vercel AI SDK.
 ## Selected work
 
 - Brought a PostgreSQL full-text search over a 1M+ row table from 6–8 s to under 1 s by moving the search function out of the per-row RLS path.
-- Source of my portfolio: [`personal-site`](https://github.com/maukul/personal-site) — Next.js, Tailwind CSS, shadcn/ui.
+- Source of my portfolio: [`personal-site`](https://github.com/maukul/personal-site), built with Next.js, Tailwind CSS and shadcn/ui.
 
 Most of my commercial work lives in private repositories, so this profile shows only a small part of it.
 
