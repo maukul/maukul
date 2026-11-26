@@ -7,8 +7,9 @@ Open to senior full-stack roles: **full-time, part-time or contract** (remote, U
 ## What I work on
 
 - **US health-tech platform** (2024 – present, contract): Senior Engineer on a claims and benefits administration platform with 40+ modules. I own 3 modules, including payments automation, and contribute to 5 more. React, TypeScript, Python. The team works AI-native, with spec-driven development.
-- **AlgoAid** (2023 – present): leading engineering of an AI-powered EdTech startup for technical interview prep. Next.js, pnpm monorepo, Supabase with Row Level Security, multi-LLM streaming through the Vercel AI SDK, Stripe subscriptions.
-- **Eclipse Insights** (2022 – 2024): led a team of 5 that took a medical ERP from blank slate to launch (React + Express). The platform was acquired after launch.
+- **SoftBee** (2022 – 2025, outsourcing company): Senior Full-Stack Engineer on client products.
+  - **AlgoAid** (2023 – 2025): led engineering of an AI-powered EdTech startup for technical interview prep. Next.js, pnpm monorepo, Supabase with Row Level Security, multi-LLM streaming through the Vercel AI SDK, Stripe subscriptions.
+  - **Eclipse Insights**: led a team of 5 that took a medical ERP from blank slate to launch (React + Express). The platform was acquired after launch.
 - **Legacy migrations**: taking over existing systems and moving them to a modern stack without downtime.
 
 ## Stack
